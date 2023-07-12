@@ -1,0 +1,29 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.navbar
+{
+    display: flex;
+    justify-content: space-between;
+    background: black;
+    color: #fff;
+}
+.logo img
+{
+    padding: 0.8rem 0.8rem 0.8rem 3rem;
+}
+.navList ul
+{
+    display: flex;
+    gap: 3rem;
+    list-style: none;
+    font-size: 1.5rem;
+    padding: 0.8rem;
+}
+.navList ul a
+{
+    color: #fff;
+    text-decoration: none;
+}
